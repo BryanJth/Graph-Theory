@@ -1,4 +1,4 @@
-# Graph Theory — Minimum Spanning Tree (MST) for Safer Aid Distribution Routes (DKI Jakarta)
+# Graph Theory - Minimum Spanning Tree (MST) for Safer Aid Distribution Routes (DKI Jakarta)
 
 This project models **DKI Jakarta sub-districts (kecamatan)** as a **weighted graph** and applies a **Minimum Spanning Tree (MST)** (via **Kruskal’s algorithm**) to propose a **“safer” cross-district route map** for **social aid (bansos) distribution** during COVID-19, where “safer” means **minimizing estimated exposure risk**.
 
